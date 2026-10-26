@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, Amir
 ##  About Me
 I love seals, i'm freshman in here, major in cybersecurity. I love computers and music!!
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
